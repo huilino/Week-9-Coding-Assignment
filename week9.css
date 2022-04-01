@@ -1,9 +1,9 @@
 
-.navbar-brand {
+/* .navbar-brand {
     font-size : 20px;
     color:black;
     font-family:lucida sans;
-}
+} */
 .btn1 {
     height: 45px;
     width : 60% ; 
@@ -21,9 +21,9 @@
     
 }
 
-.nav-link {
+/* .nav-link {
     font-size:25px;
-}
+} */
 
 .contact {
     background-color: black;
@@ -59,4 +59,13 @@
 .card-body:hover{
     background-color: rgb(231, 214, 214);
     padding:2px 2px 2px 2px;
+}
+
+#dropdownMenuButton{
+    margin-right: 10px;
+}
+
+.p-3{
+    font-family: lucida sans;
+    font-size : 20px;
 }
